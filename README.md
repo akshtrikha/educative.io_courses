@@ -1,2 +1,4 @@
 # educative.io_courses
-this is downloadings of all educative.io free student subscription courses
+
+### C++ OOPS:
+[Storage Classes](https://codeforwin.org/2017/09/c-storage-classes.html)
